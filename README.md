@@ -21,11 +21,13 @@ https://github.com/Arseny-Kornilov/Clouds_Kornilov2/blob/main/bucket.tf
 
 ### Instance Group
 #### Конфигурация
-
+https://github.com/Arseny-Kornilov/Clouds_Kornilov2/blob/main/instance_group.tf
 
 <img width="1379" height="323" alt="image" src="https://github.com/user-attachments/assets/4490d713-e533-482b-b2c6-affa2d2f2ca4" />
 
 ### Target Group
+#### Конфигурация Load Balancer
+https://github.com/Arseny-Kornilov/Clouds_Kornilov2/blob/main/load_balancer.tf
 
 <img width="1029" height="329" alt="image" src="https://github.com/user-attachments/assets/c78b4091-da6b-4d68-ae3b-b8f120ac3c9d" />
 
