@@ -26,4 +26,13 @@
 ### Картинка на инстанстах
 <img width="789" height="719" alt="image" src="https://github.com/user-attachments/assets/6cf40f35-04fe-4890-bfd7-61a832098390" />
 
+### Проверка работоспособности при удалении одной ВМ
+<img width="1250" height="357" alt="image" src="https://github.com/user-attachments/assets/7fe6e80e-007a-4946-abf6-963e7900c320" />
+<img width="1281" height="345" alt="image" src="https://github.com/user-attachments/assets/78a1c1c6-d454-4164-9961-6e178fadeacd" />
+<img width="1268" height="382" alt="image" src="https://github.com/user-attachments/assets/75c728b8-64ff-46bf-bd01-4ba4dd61b8e7" />
+
+### Общее количество созданных ресурсов
+<img width="1073" height="395" alt="image" src="https://github.com/user-attachments/assets/48f1f238-b68e-475c-947b-3219c2f297ba" />
+
+
 
