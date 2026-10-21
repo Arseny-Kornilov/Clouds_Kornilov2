@@ -14,9 +14,15 @@
 
 ## РЕШЕНИЕ:
 ### Bucket
+#### Конфигурация
+https://github.com/Arseny-Kornilov/Clouds_Kornilov2/blob/main/bucket.tf
+
 <img width="501" height="220" alt="image" src="https://github.com/user-attachments/assets/92c57f4c-0ae7-4b98-a1b8-a12372dc7161" />
 
 ### Instance Group
+#### Конфигурация
+
+
 <img width="1379" height="323" alt="image" src="https://github.com/user-attachments/assets/4490d713-e533-482b-b2c6-affa2d2f2ca4" />
 
 ### Target Group
