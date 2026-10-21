@@ -1,6 +1,5 @@
 # Домашнее задание к занятию «Вычислительные мощности. Балансировщики нагрузки»
 ## Создать бакет Object Storage и разместить в нём файл с картинкой:
-https://github.com/m0nr0e21/netology_dev_ops/blob/5bb6df76f0873b708fe23b7e768d031036b56475/clopro/15.2/images/15.2-1.png?raw=true
 ## Создать бакет в Object Storage с произвольным именем (например, имя_студента_дата).
 ## Положить в бакет файл с картинкой.
 ## Сделать файл доступным из интернета.
@@ -12,3 +11,15 @@ https://github.com/m0nr0e21/netology_dev_ops/blob/5bb6df76f0873b708fe23b7e768d03
 ## Подключить группу к сетевому балансировщику:
 ## Создать сетевой балансировщик.
 ## Проверить работоспособность, удалив одну или несколько ВМ.
+
+## РЕШЕНИЕ:
+### Bucket
+<img width="501" height="220" alt="image" src="https://github.com/user-attachments/assets/92c57f4c-0ae7-4b98-a1b8-a12372dc7161" />
+### Instance Group
+<img width="1379" height="323" alt="image" src="https://github.com/user-attachments/assets/4490d713-e533-482b-b2c6-affa2d2f2ca4" />
+### Target Group
+<img width="1029" height="329" alt="image" src="https://github.com/user-attachments/assets/c78b4091-da6b-4d68-ae3b-b8f120ac3c9d" />
+### Картинка на Instances
+<img width="789" height="719" alt="image" src="https://github.com/user-attachments/assets/6cf40f35-04fe-4890-bfd7-61a832098390" />
+
+
