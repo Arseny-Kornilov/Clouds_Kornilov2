@@ -18,9 +18,12 @@
 
 ### Instance Group
 <img width="1379" height="323" alt="image" src="https://github.com/user-attachments/assets/4490d713-e533-482b-b2c6-affa2d2f2ca4" />
-### Target Group
+
+### Bucket
+
 <img width="1029" height="329" alt="image" src="https://github.com/user-attachments/assets/c78b4091-da6b-4d68-ae3b-b8f120ac3c9d" />
-### Картинка на Instances
+
+### Bucket
 <img width="789" height="719" alt="image" src="https://github.com/user-attachments/assets/6cf40f35-04fe-4890-bfd7-61a832098390" />
 
 
